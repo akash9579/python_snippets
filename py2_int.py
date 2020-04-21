@@ -4,7 +4,9 @@ Created on Mon Mar 30 16:18:12 2020
 
 @author: akash
 """
+###########################################################################################
 
+## working with integer and float ##
 
 num = 3.3
 print(type(num))
