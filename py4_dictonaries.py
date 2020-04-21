@@ -5,8 +5,9 @@ Created on Wed Apr  1 19:03:11 2020
 @author: akash
 """
 
+#######################################################################################################
 
-""" dictonaries are the pair of key and value """
+### dictonaries are the pair of key and value ###
 
 
 student = {"akash" : "kamerkar","pranita" : "a" }
