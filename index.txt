@@ -1,0 +1,11 @@
+this folder contain implementation of :
+
+stack
+queue
+linked list
+directed graph
+
+kickstart_dec_problem1
+kickstart_dec_problem2
+
+genrate binary sequence
